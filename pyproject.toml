@@ -1,0 +1,18 @@
+[project]
+name = "ai-medicine"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.1",
+    "metapub>=0.5.12",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "psycopg2>=2.9.10",
+    "psycopg2-binary>=2.9.10",
+    "pubmed-parser>=0.5.1",
+    "pyalex>=0.18",
+    "requests>=2.32.3",
+    "tqdm>=4.67.1",
+]
