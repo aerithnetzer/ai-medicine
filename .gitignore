@@ -7,7 +7,14 @@ wheels/
 *.egg-info
 *.txt
 *.json
-./pubmed_xml/*
-./pubmed_xml/
+paper/*
+papers/*
+papers
+article
+*.png
+*.jsonl
+*.md
+*.log
+*.tgz
 # Virtual environments
 .venv

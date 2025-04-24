@@ -5,14 +5,19 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "bertopic>=0.17.0",
+    "biopython>=1.85",
+    "boto3>=1.38.0",
     "matplotlib>=3.10.1",
     "metapub>=0.5.12",
+    "nltk>=3.9.1",
     "pandas>=2.2.3",
     "plotly>=6.0.1",
     "psycopg2>=2.9.10",
     "psycopg2-binary>=2.9.10",
     "pubmed-parser>=0.5.1",
     "pyalex>=0.18",
+    "pyspark>=3.5.5",
     "requests>=2.32.3",
     "tqdm>=4.67.1",
 ]
